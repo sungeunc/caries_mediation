@@ -1,3 +1,5 @@
+https://zenodo.org/badge/866779694.svg
+
 **Analysis of Race/ethnicity and Socioeconomic Factors and Tooth Decay among US Children**
 
 **Objective**: To measure racial/ethnic disparities in the risk of developing tooth decay and quantify relative contributions of factors mediating the observed disparities among US children. 
