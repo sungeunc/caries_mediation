@@ -2,6 +2,13 @@
 
 **Analysis of Race/ethnicity and Socioeconomic Factors and Tooth Decay among US Children**
 
+Sung Eun Choi, SM, PhD1†, Joel White, MS, DDS2, Elizabeth Mertz, MA, PhD2*, Sharon-Lise Normand, PhD3,4*
+
+1 Department of Oral Health Policy and Epidemiology, Harvard School of Dental Medicine, Boston, MA, USA
+2 Department of Preventive and Restorative Dental Sciences, School of Dentistry, University of California San Francisco, San Francisco, CA, USA
+3 Department of Health Care Policy, Harvard Medical School, Boston, MA, USA
+4 Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA, USA
+
 **Objective**: To measure racial/ethnic disparities in the risk of developing tooth decay and quantify relative contributions of factors mediating the observed disparities among US children. 
 
 **Design, setting and participants**: This retrospective cohort study used electronic health records of US children (2014-2020) to measure racial/ethnic disparities in the risk of tooth decay. An Anderson-Gill model, a time-to-event model for recurrent tooth decay events with time-varying covariates, stratified by age groups (0-5, 6-10,11-18 years) was estimated. Elastic net regularization was used to select predictors to be included in the model among medical conditions, dental procedure types, and individual- and community-level socioeconomic factors. A nonlinear multiple additive regression tree-based mediation analysis quantified the relative contributions of factors underlying the observed racial/ethnic disparities.
